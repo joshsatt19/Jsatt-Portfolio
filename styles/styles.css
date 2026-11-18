@@ -1,0 +1,38 @@
+body {
+    background-color: #f3ebe2;
+}
+#home-logo img {
+    width: 200px;
+    
+}
+#home-logo {
+    background-color: #c26b5b;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 10px;
+}
+#about-nav img {
+    width: 200px;
+}
+#about-hero img{
+    width: 200px;
+}
+.logo-footer img{
+    width: 100px;
+    border-radius: 20px;
+}
+.social img{
+    width: 50px;
+    border-radius: 10px;
+}
+#projects-box img, #resume-box img, #about-me-box img{
+    width: 200px;
+}
+#projects-hero img {
+    width: 100%;
+}
+.projects-content img{
+    width: 50px;
+}
